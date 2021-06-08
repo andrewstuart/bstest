@@ -2,7 +2,7 @@
 
 Sometimes you just need test coverage.
 
-`go get -u astuart.co/bstest && bstest && go test -cover`
+`go install astuart.co/bstest@latest && bstest && go test -cover`
 
 ## Example:
 ```bash
